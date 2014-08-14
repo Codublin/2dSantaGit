@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: addf258c816eb65468ffc98526d05e79
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: scarf
+    21300004: bobble_2
+    21300006: bobble_3
+    21300008: bobble_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 195
+        width: 45
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scarf
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 127
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: .5, y: .356387407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobble_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 162
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobble_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 59
+        width: 26
+        height: 32
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobble_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 59
+        width: 19
+        height: 33
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
